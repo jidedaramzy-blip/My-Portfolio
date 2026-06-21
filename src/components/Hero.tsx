@@ -30,6 +30,7 @@ export default function Hero() {
               </a>
               <a 
                 href="/Babajide-Daramola-Resume.pdf" 
+                download="Babajide-Daramola-Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 bg-white text-navy border border-gray-200 rounded-lg font-medium shadow-sm hover:border-emerald hover:text-emerald transition-colors duration-200"
